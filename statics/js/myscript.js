@@ -1,20 +1,28 @@
 window.$docsify = {
-    name: 'Todo',
-    repo: '',
-    loadSidebar: true,// 侧边栏
-    subMaxLevel: 2,// 同时根据侧边栏文件中的标题生成侧边栏，数值为标题显示到的等级
-    alias: {
-        '/.*/_sidebar.md': '/_sidebar.md'
-    },// 从每个级别目录加载各自的侧边栏，如该目录没有侧边栏则加载上级的
+    name: "Lij's NoteBook",
+    repo: 'https://www.lijiong.cn',
+    loadNavbar: true,
     search: 'auto',
     search: {
-        maxAge: 86400000, // Expiration time, the default one day 86400000
-        paths: 'auto', // or 'auto'
+        maxAge: 3600000,
+        paths: 'auto',
         placeholder: 'Type to search',
         noData: 'No Results',
-        // 搜索结果显示的标题等级, 1 - 6
         depth: 4,
-        // 搜索时是否暂时隐藏侧边栏
-        hideOtherSidebarContent: false, 
-    }
+        hideOtherSidebarContent: false,
+    },
+    copyCode: {
+        buttonText: 'Copy to clipboard',
+        errorText: 'Error',
+        successText: 'Copied'
+    },
+    footer: {
+        copy: '<hr/><span id="sitetime"></span><br/><span>Copyright &copy; 2018 - 至今</span>',
+        auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Avatar Blog</a> <span> 人生只有900个月</span>',
+        style: 'text-align:center;',
+    },
+    timeUpdater: {
+        text: '<hr/><div align="center">last update time: {docsify-updated}</div>',
+        formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}:{ss}',
+    },
 }

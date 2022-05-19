@@ -5,17 +5,17 @@ L2Dwidget.init({
     },
     "display": {
       "position": "right", //位置
-      "width": 70,  //宽度
-      "height": 140, //高度
-      "hOffset": 35,
-      "vOffset": -20
+      "width": 60,  //宽度
+      "height": 120, //高度
+      "hOffset": 40,
+      "vOffset": -10
     },
     "mobile": {
       "show": true,
       "scale": 0.5
     },
     "react": {
-      "opacityDefault": 0.7,
+      "opacityDefault": 0.6,
       "opacityOnHover": 0.2
     }
 });
