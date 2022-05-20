@@ -12,11 +12,14 @@
   
   - [Docker](https://docs.docker.com/get-started/)
   - [Flink](https://nightlies.apache.org/flink/flink-docs-release-1.15/)
+  - [Flume](https://flume.apache.org/releases/content/1.9.0/FlumeUserGuide.html)
   - [Hadoop](https://hadoop.apache.org/docs/)
   - [Java](https://docs.oracle.com/javase/8/docs/api/index.html)
   - [Kafka](https://kafka.apache.org/documentation/)
   - [Kudu](https://kudu.apache.org/docs/)
   - [Nginx](http://nginx.org/en/docs/)
+  - [Python](https://docs.python.org/3/)
+  - [Scala](https://docs.scala-lang.org/)
   - [Spark](https://spark.apache.org/documentation.html)
   
 - [**网页工具**]()
