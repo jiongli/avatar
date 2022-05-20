@@ -206,7 +206,7 @@
 
 [Redis的API操作](src/数据开发/Redis的API操作)
 
-## Zookeepr
+## Zookeeper
 
 [Zookeeper的命令行操作](src/数据开发/Zookeeper的命令行操作)
 
