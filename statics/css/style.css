@@ -14,6 +14,17 @@ h1 span{
     border-radius: 5px;/* 圆角 */
     box-shadow: 1px 1px 3px black;/* 阴影 */
 }
+/* 二级标题加粗 */
+.markdown-section h2 strong {
+    color: #2c3e50;
+}
+/* 侧边栏设置 */
+aside.sidebar ul ul li a {
+    padding-left: 15px;
+}
+aside.sidebar ul ul ul li a {
+    padding-left: 25px;
+}
 /* 链接 */
 .markdown-section a {
 	color:var(--theme-color,#4394ca);
@@ -24,7 +35,6 @@ h1 span{
 	padding:0.5em;
 	border-left:4px solid var(--theme-color,#42b983);
 }
-
 /* 分栏和标签 */
 :root {
     --docsify-example-panels-document-width: 80%; /* 分栏设置-页边距（影响整体） */
@@ -33,20 +43,18 @@ h1 span{
     --docsifytabs-border-color: hsl(0, 0%, 89%);/* 标签设置-边框 */
     --docsifytabs-tab-highlight-color: hsl(210, 76%, 52%);/* 标签设置-标签 */
 }
-
 /* 图片 */
 img {
     border-radius: 5px;
     box-shadow: 0 2px 6px rgb(0 0 0 / 10%), 0 4px 12px rgb(0 0 0 / 15%);
 }
-
 /* 代码复制 */
 .docsify-copy-code-button {
     background: hsl(210, 29%, 29%) !important;
     color: #FFFFFF !important;
     font-size: 7px !important;
 }
-
+/* root */
 :root {
     --theme-color: hsl(211, 57%, 70%);/* 主题颜色 */
     --heading-color: hsl(210, 29%, 29%);/* 标题颜色 */

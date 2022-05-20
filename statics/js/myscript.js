@@ -2,6 +2,7 @@ window.$docsify = {
     name: "Lij's NoteBook",
     repo: 'https://www.lijiong.cn',
     loadNavbar: true,
+    noEmoji: true,
     search: 'auto',
     search: {
         maxAge: 3600000,
@@ -17,8 +18,8 @@ window.$docsify = {
         successText: 'Copied'
     },
     footer: {
-        copy: '<hr/><span id="sitetime"></span><br/><span>Copyright &copy; 2018 - 至今</span>',
-        auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Avatar Blog</a> <span> 人生只有900个月</span>',
+        copy: '<hr/><span id="sitetime"></span><br/><span>Copyright &copy; 2014 - 至今</span>',
+        auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Lijiong Blog</a> <span>操千曲而后晓声，观千剑而后识器</span>',
         style: 'text-align:center;',
     },
     timeUpdater: {
