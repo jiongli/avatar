@@ -50,6 +50,8 @@
 
 [【MySQL】Windows版MySQL5.7.30安装记录](src/运维部署/Windows版MySQL5.7.30安装记录)
 
+[【MySQL】MySQL安装提示找不到msvcr120.dll和msvcp120.dll问题处理](src/运维部署/MySQL安装提示找不到msvcr120.dll和msvcp120.dll问题处理)
+
 [【Navicat】Navicat_Premium15安装方式](src/运维部署/Navicat_Premium15安装方式)
 
 [【Neo4j】Docker版Neo4j安装记录](src/运维部署/Docker版Neo4j安装记录)
@@ -65,8 +67,6 @@
 [【Python】Python环境安装记录](src/运维部署/Python环境安装记录)
 
 [【Python】Windows版Python安装记录](src/运维部署/Windows版Python安装记录)
-
-[【Python】Python的Microsoft_Visual_C++_14.0_is_required问题处理](src/运维部署/Python的Microsoft_Visual_C++_14.0_is_required问题处理)
 
 [【Redis】Redis安装部署记录](src/运维部署/Redis安装部署记录)
 
@@ -102,6 +102,8 @@
 
 [HDFS的安全模式](src/数据开发/HDFS的安全模式)
 
+[NameNode的元数据管理及内存分配](src/数据开发/NameNode的元数据管理及内存分配)
+
 [MapReduce的数据处理流程](src/数据开发/MapReduce的数据处理流程)
 
 [MapReduce的可指定组件](src/数据开发/MapReduce的可指定组件)
@@ -132,21 +134,109 @@
 
 ## Hive
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+[Hive的交互命令和配置](src/数据开发/Hive的交互命令和配置)
+
+[Hive的数据类型](src/数据开发/Hive的数据类型)
+
+[Hive的DDL语言](src/数据开发/Hive的DDL语言)
+
+[Hive的数据导入导出](src/数据开发/Hive的数据导入导出)
+
+<!-- div:right-panel -->
+
+[Hive的查询语法](src/数据开发/Hive的查询语法)
+
+[Hive的函数](src/数据开发/Hive的函数)
+
+[HQL转化为MapReduce的过程](src/数据开发/HQL转化为MapReduce的过程)
+
+[Hive底层与数据库交互的过程](src/数据开发/Hive底层与数据库交互的过程)
+
+<!-- panels:end -->
+
 ## Spark
 
 ## Flink
 
+[基于Flink的实时离线数据整合](src/数据开发/基于Flink的实时离线数据整合)
+
+[Flink连接Mysql的No_suitable_driver_found_for_jdbc问题处理](src/数据开发/Flink连接Mysql的No_suitable_driver_found_for_jdbc问题处理)
+
 ## Neo4j
+
+[Neo4j的命令行操作](src/数据开发/Neo4j的命令行操作)
+
+[Python操作Neo4j](src/数据开发/Python操作Neo4j)
+
+[Neo4j导入CSV文件](src/数据开发/Neo4j导入CSV文件)
+
+[Neo4j导入CSV文件的Couldn't_load_the_external_resource_at_file...问题处理](src/数据开发/Neo4j导入CSV文件的Couldn't_load_the_external_resource_at_file...问题处理)
+
+[Docker版Neo4j的neo4j-import](src/数据开发/Docker版Neo4j的neo4j-import)
+
+[Neo4j节点颜色与大小设置](src/数据开发/Neo4j节点颜色与大小设置)
 
 ## HBase
 
+[HBase的命令行操作](src/数据开发/HBase的命令行操作)
+
+[HBase的数据模型](src/数据开发/HBase的数据模型)
+
+[HBase的读写流程](src/数据开发/HBase的读写流程)
+
+[HBase的RowKey设计原则](src/数据开发/HBase的RowKey设计原则)
+
+[HBase的协处理器](src/数据开发/HBase的协处理器)
+
+[HBase的过滤器](src/数据开发/HBase的过滤器)
+
 ## Kafka
+
+## Flume
+
+[基于flume和lftp的非结构化文件同步](src/数据开发/基于flume和lftp的非结构化文件同步)
+
+## Redis
+
+[Redis命令行操作](src/数据开发/Redis命令行操作)
+
+[Redis的API操作](src/数据开发/Redis的API操作)
+
+## Zookeepr
+
+[Zookeeper的命令行操作](src/数据开发/Zookeeper的命令行操作)
+
+[Zookeeper的数据模型和监听机制](src/数据开发/Zookeeper的数据模型和监听机制)
+
+[Zookeeper的选举机制](src/数据开发/Zookeeper的选举机制)
+
+## MySQL
+
+[MySQL中utf8的校对规则](src/数据开发/MySQL中utf8的校对规则)
+
+[MySQL拆分字段转为多行](src/数据开发/MySQL拆分字段转为多行)
+
+[Excel自定义日期通过Navicat入库后转为5位数字问题处理](src/数据开发/Excel自定义日期通过Navicat入库后转为5位数字问题处理)
+
+## Oracle
+
+[Oracle的TRANSLATE函数](src/数据开发/Oracle的TRANSLATE函数)
 
 # **后端开发**
 
 ## Java
 
 ## Python
+
+[Python的Microsoft_Visual_C++_14.0_is_required问题处理](src/后端开发/Python的Microsoft_Visual_C++_14.0_is_required问题处理)
+
+[Python的Can_not_execute_setup.py_since_setuptools_is_not_available_in_the_build_environment问题处理](src/后端开发/Python的Can_not_execute_setup.py_since_setuptools_is_not_available_in_the_build_environment问题处理)
+
+[Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理](src/后端开发/Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理)
 
 ## Scala
 
@@ -155,6 +245,40 @@
 # **前端综合**
 
 ## Django
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+[Django的项目创建](src/前端综合/Django的项目创建)
+
+[Django的应用创建](src/前端综合/Django的应用创建)
+
+[Django的模板创建](src/前端综合/Django的模板创建)
+
+[Django的静态文件配置](src/前端综合/Django的静态文件配置)
+
+[Django的默认数据库变更](src/前端综合/Django的默认数据库变更)
+
+[Django的模型使用](src/前端综合/Django的模型使用)
+
+[Django的数据库操作](src/前端综合/Django的数据库操作)
+
+<!-- div:right-panel -->
+
+[Django的表单使用](src/前端综合/Django的表单使用)
+
+[Django的视图使用](src/前端综合/Django的视图使用)
+
+[Django的映射配置](src/前端综合/Django的映射配置)
+
+[基于Django的Neo4j知识图谱系统](src/前端综合/基于Django的Neo4j知识图谱系统)
+
+[Django渲染表单后显示This_field_is_required问题处理](src/前端综合/Django渲染表单后显示This_field_is_required问题处理)
+
+[Django启动项目一直Performing_system_checks问题处理](src/前端综合/Django启动项目一直Performing_system_checks问题处理)
+
+<!-- panels:end -->
 
 ## DVAdmin
 
@@ -170,3 +294,12 @@
 
 # **其他内容**
 
+[Markdown公式语法](src/其他内容/Markdown公式语法)
+
+[PotPlayer快捷键](src/其他内容/PotPlayer快捷键)
+
+[Windows查看保存的wifi密码](src/其他内容/Windows查看保存的wifi密码)
+
+[Xshell外观设置](src/其他内容/Xshell外观设置)
+
+[全角字母、数字的Unicode](src/其他内容/全角字母、数字的Unicode)
