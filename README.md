@@ -40,17 +40,21 @@
 
 [【Linux】虚机集群搭建记录](src/运维部署/虚机集群搭建记录)
 
+[【Linux】Windows安装Linux子系统](src/运维部署/Windows安装Linux子系统)
+
 <!-- div:right-panel -->
 
 [【Linux】制作yum源进行离线安装记录](src/运维部署/制作yum源进行离线安装记录)
 
-[【Linux】Windows安装Linux子系统](src/运维部署/Windows安装Linux子系统)
+[【Linux】Linux的常用命令](src/运维部署/Linux的常用命令)
+
+[【Linux】Linux的高级文本命令](src/运维部署/Linux的高级文本命令)
+
+[【Linux】Crontab定时任务设置](src/运维部署/Crontab定时任务设置)
 
 [【MySQL】MySQL5.7.30安装配置记录](src/运维部署/MySQL5.7.30安装配置记录)
 
 [【MySQL】Windows版MySQL5.7.30安装记录](src/运维部署/Windows版MySQL5.7.30安装记录)
-
-[【MySQL】MySQL安装提示找不到msvcr120.dll和msvcp120.dll问题处理](src/运维部署/MySQL安装提示找不到msvcr120.dll和msvcp120.dll问题处理)
 
 [【Navicat】Navicat_Premium15安装方式](src/运维部署/Navicat_Premium15安装方式)
 
@@ -230,7 +234,47 @@
 
 ## Java
 
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+[Java的基础语法](src/后端开发/Java的基础语法)
+
+[Java的面向对象](src/后端开发/Java的面向对象)
+
+[Java的常用类](src/后端开发/Java的常用类)
+
+[Java的集合](src/后端开发/Java的集合)
+
+[Java的异常处理](src/后端开发/Java的异常处理)
+
+[Java的IO流](src/后端开发/Java的IO流)
+
+<!-- div:right-panel -->
+
+[Java的多线程](src/后端开发/Java的多线程)
+
+[Java的网络编程](src/后端开发/Java的网络编程)
+
+[Java的反射使用](src/后端开发/Java的反射使用)
+
+[Lambda表达式的使用](src/后端开发/Lambda表达式的使用)
+
+[DateTimeFormatter的使用](src/后端开发/DateTimeFormatter的使用)
+
+[枚举类的实现原理](src/后端开发/枚举类的实现原理)
+
+<!-- panels:end -->
+
 ## Python
+
+[每日疫苗接种数据自动处理流程](src/后端开发/每日疫苗接种数据自动处理流程)
+
+[基于selenium的邮件附件获取](src/后端开发/基于selenium的邮件附件获取)
+
+[解压rar/zip文件并识别路径](src/后端开发/解压rarzip文件并识别路径)
+
+[基于smtplib的邮件发送](src/后端开发/基于smtplib的邮件发送)
 
 [Python的Microsoft_Visual_C++_14.0_is_required问题处理](src/后端开发/Python的Microsoft_Visual_C++_14.0_is_required问题处理)
 
@@ -238,7 +282,67 @@
 
 [Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理](src/后端开发/Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理)
 
+[selenium的element_not_interactable问题处理](src/后端开发/selenium的element_not_interactable问题处理)
+
+[selenium的click使用try后失效问题处理](src/后端开发/selenium的click使用try后失效问题处理)
+
+[pandas导入excel到数据库的合并单元格表头处理](src/后端开发/pandas导入excel到数据库的合并单元格表头处理)
+
+[输出MySQL数据结构为Markdown文件](src/后端开发/输出MySQL数据结构为Markdown文件)
+
 ## Scala
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+[Scala的基础语法](src/后端开发/Scala的基础语法)
+
+[Scala的面向对象](src/后端开发/Scala的面向对象)
+
+[Scala的集合框架](src/后端开发/Scala的集合框架)
+
+[Scala的模式匹配](src/后端开发/Scala的模式匹配)
+
+[Scala的并发编程](src/后端开发/Scala的并发编程)
+
+<!-- div:right-panel -->
+
+[Scala的柯里化](src/后端开发/Scala的柯里化)
+
+[Scala的隐式](src/后端开发/Scala的隐式)
+
+[Scala的泛型](src/后端开发/Scala的泛型)
+
+[Scala的连接符号](src/后端开发/Scala的连接符号)
+
+[Scala的while读取io流死循环问题处理](src/后端开发/Scala的while读取io流死循环问题处理)
+
+<!-- panels:end -->
+
+## Shell
+
+<!-- panels:start -->
+
+<!-- div:left-panel -->
+
+[Shell脚本执行方法](src/后端开发/Shell脚本执行方法)
+
+[Shell的变量](src/后端开发/Shell的变量)
+
+[Shell的运算符](src/后端开发/Shell的运算符)
+
+[Shell的条件判断](src/后端开发/Shell的条件判断)
+
+<!-- div:right-panel -->
+
+[Shell的流程控制](src/后端开发/Shell的流程控制)
+
+[Shell的函数](src/后端开发/Shell的函数)
+
+[Shell脚本调试](src/后端开发/Shell脚本调试)
+
+<!-- panels:end -->
 
 ## Other
 
@@ -280,9 +384,19 @@
 
 <!-- panels:end -->
 
-## DVAdmin
-
 ## Docsify
+
+[Docsify的多页设置](src/前端综合/Docsify的多页设置)
+
+[Docsify的导航栏设置](src/前端综合/Docsify的导航栏设置)
+
+[Docsify的插件使用](src/前端综合/Docsify的插件使用)
+
+## Other
+
+[知识图谱系统嵌入DVAdmin](src/前端综合/知识图谱系统嵌入DVAdmin)
+
+[jQuery的回到顶部插件GoUp使用](src/前端综合/jQuery的回到顶部插件GoUp使用)
 
 # **基础知识**
 
@@ -292,9 +406,19 @@
 
 ## 数据结构
 
+# **项目管理**
+
 # **其他内容**
 
+[Windows版Git安装记录](src/其他内容/Windows版Git安装记录)
+
+[Git相关操作](src/其他内容/Git相关操作)
+
 [Markdown公式语法](src/其他内容/Markdown公式语法)
+
+[IDEA相关操作](src/其他内容/IDEA相关操作)
+
+[Eclipse相关操作](src/其他内容/Eclipse相关操作)
 
 [PotPlayer快捷键](src/其他内容/PotPlayer快捷键)
 

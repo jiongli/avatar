@@ -1,4 +1,4 @@
-## **MySQL拆分字段转为多行**
+## MySQL拆分字段转为多行
 
 - 通过mysql.help_topic提供自增的字段help_topic_id，通过substring_index截取前若干个拆分项，再截取最后一个
 
@@ -13,9 +13,7 @@ where
         help_topic_id < (length('王金鑫、王金金、高方泳、高方垚、王胜楠') - length(replace('王金鑫、王金金、高方泳、高方垚、王胜楠','、','')))/3 + 1
 ```
 
-![](https://img2022.cnblogs.com/blog/2191564/202204/2191564-20220419152158921-1735691124.jpg)
-
-
+![](assets/MySQL拆分字段转为多行/00.jpg)
 
 - 拆分原表字段
 
@@ -51,3 +49,4 @@ where
 and     
         t2.help_topic_id < (length(t1.related_patient) - length(replace(t1.related_patient, '、', '')))/3 + 1
 ```
+

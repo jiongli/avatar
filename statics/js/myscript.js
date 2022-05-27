@@ -3,6 +3,7 @@ window.$docsify = {
     repo: 'https://www.lijiong.cn',
     loadNavbar: true,
     noEmoji: true,
+    auto2top: true,
     search: 'auto',
     search: {
         maxAge: 3600000,
@@ -21,9 +22,5 @@ window.$docsify = {
         copy: '<hr/><span id="sitetime"></span><br/><span>Copyright &copy; 2014 - 至今</span>',
         auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Lijiong Blog</a> <span>操千曲而后晓声，观千剑而后识器</span>',
         style: 'text-align:center;',
-    },
-    timeUpdater: {
-        text: '<hr/><div align="center">last update time: {docsify-updated}</div>',
-        formatUpdated: '{YYYY}-{MM}-{DD} {HH}:{mm}:{ss}',
     },
 }

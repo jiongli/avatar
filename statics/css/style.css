@@ -9,7 +9,7 @@
 /* 一级标题 */
 h1 span{
     display:inline-block;
-    background: var(--theme-color,rgb(66, 185, 131));/* 颜色 */
+    background: var(--theme-color);/* 颜色 */
     padding: 10px 16px;/* 上下、左右填充 */
     border-radius: 5px;/* 圆角 */
     box-shadow: 1px 1px 3px black;/* 阴影 */
@@ -37,7 +37,7 @@ aside.sidebar ul ul ul li a {
 /* 引用 */
 .markdown-section blockquote {
 	padding:0.5em;
-	border-left:4px solid var(--theme-color,#42b983);
+	border-left:4px solid var(--theme-color);
 }
 /* 分栏和标签 */
 :root {
