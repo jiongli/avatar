@@ -1,4 +1,4 @@
-## **Neo4j导入CSV文件的Couldn't load the external resource at: file:/...问题处理**
+## **Neo4j导入CSV文件的Couldn't load the external resource问题处理**
 
 ### 问题记录
 

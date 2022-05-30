@@ -260,7 +260,7 @@
 
 [Neo4j导入CSV文件](src/数据开发/Neo4j导入CSV文件)
 
-[Neo4j导入CSV文件的Couldn't_load_the_external_resource_at_file...问题处理](src/数据开发/Neo4j导入CSV文件的Couldn't_load_the_external_resource_at_file...问题处理)
+[Neo4j导入CSV文件的Couldn't_load_the_external_resource问题处理](src/数据开发/Neo4j导入CSV文件的Couldn't_load_the_external_resource问题处理)
 
 [Docker版Neo4j的neo4j-import](src/数据开发/Docker版Neo4j的neo4j-import)
 
