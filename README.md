@@ -32,6 +32,8 @@
 
 [【Kafka】基于Docker的Kafka安装记录](src/运维部署/基于Docker的Kafka安装记录)
 
+[【Kafka】Kafka安装部署记录](src/运维部署/Kafka安装部署记录)
+
 [【Linux】Centos7安装配置记录](src/运维部署/Centos7安装配置记录)
 
 [【Linux】Linux磁盘挂载记录](src/运维部署/Linux磁盘挂载记录)
@@ -75,6 +77,8 @@
 [【Redis】Redis安装部署记录](src/运维部署/Redis安装部署记录)
 
 [【Spark】Spark安装部署记录](src/运维部署/Spark安装部署记录)
+
+[【Spark】SparkSQL与Hive整合记录](src/运维部署/SparkSQL与Hive整合记录)
 
 [【VMware】VMware_Pro_16安装方式](src/运维部署/VMware_Pro_16安装方式)
 
@@ -188,11 +192,11 @@
 
 [Spark的checkpoint](src/数据开发/Spark的checkpoint)
 
-<!-- div:right-panel -->
-
 [Spark的广播变量](src/数据开发/Spark的广播变量)
 
 [Spark的自定义分区器](src/数据开发/Spark的自定义分区器)
+
+<!-- div:right-panel -->
 
 [Spark的自定义排序](src/数据开发/Spark的自定义排序)
 
@@ -201,6 +205,16 @@
 [Spark的序列化问题](src/数据开发/Spark的序列化问题)
 
 [SparkStreaming的使用](src/数据开发/SparkStreaming的使用)
+
+[SparkSQL的基本使用](src/数据开发/SparkSQL的基本使用)
+
+[SparkSQL的DataFrame编程](src/数据开发/SparkSQL的DataFrame编程)
+
+[SparkSQL的DataSet编程](src/数据开发/SparkSQL的DataSet编程)
+
+[SparkSQL的RDD/DF/DS互转](src/数据开发/SparkSQL的RDDDFDS互转)
+
+[SparkSQL的自定义函数](src/数据开发/SparkSQL的自定义函数)
 
 [Spark的开发调优](src/数据开发/Spark的开发调优)
 
@@ -270,6 +284,8 @@
 
 [HBase的命令行操作](src/数据开发/HBase的命令行操作)
 
+[HBase的API操作](src/数据开发/HBase的API操作)
+
 [HBase的数据模型](src/数据开发/HBase的数据模型)
 
 [HBase的读写流程](src/数据开发/HBase的读写流程)
@@ -281,6 +297,12 @@
 [HBase的过滤器](src/数据开发/HBase的过滤器)
 
 ## Kafka
+
+[Kafka的相关概念](src/数据开发/Kafka的相关概念)
+
+[Kafka的相关操作](src/数据开发/Kafka的相关操作)
+
+[Kafka的API操作](src/数据开发/Kafka的API操作)
 
 ## Flume
 

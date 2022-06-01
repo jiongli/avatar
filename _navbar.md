@@ -6,9 +6,7 @@
   - [基础知识](/?id=基础知识)
   - [项目管理](/?id=项目管理)
   - [其他内容](/?id=其他内容)
-  
 - [**技术文档**]()
-  
   - [Django](https://docs.djangoproject.com/en/4.0/)
   - [Docker](https://docs.docker.com/get-started/)
   - [Flink](https://nightlies.apache.org/flink/flink-docs-release-1.15/)
@@ -16,12 +14,13 @@
   - [Hadoop](https://hadoop.apache.org/docs/)
   - [Java](https://docs.oracle.com/javase/8/docs/api/index.html)
   - [Kafka](https://kafka.apache.org/documentation/)
+  - [K8S](https://kubernetes.io/zh/docs/home/)
   - [Kudu](https://kudu.apache.org/docs/)
   - [Nginx](http://nginx.org/en/docs/)
   - [Python](https://docs.python.org/3/)
   - [Scala](https://docs.scala-lang.org/)
   - [Spark](https://spark.apache.org/documentation.html)
-  
+  - [Tomcat](https://tomcat.apache.org/tomcat-8.0-doc/index.html)
 - [**网页工具**]()
   
   - [文献搜索](https://www.semanticscholar.org/)
@@ -35,7 +34,6 @@
   - [文件转换](https://convertio.co/zh/)
   - [拾色器](https://www.runoob.com/tags/html-colorpicker.html)
   - [CSS处理](https://www.runoob.com/csspack/)
-  
 - [**常用链接**]()
   
   - [GitHub](https://github.com/)
