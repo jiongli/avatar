@@ -33,7 +33,7 @@
   - [代码图片](https://carbon.now.sh/)
   - [绘图工具](https://www.processon.com/diagrams/)
   - [文件转换](https://convertio.co/zh/)
-  - [拾色器](https://www.runoob.com/tags/html-colorpicker.html)
+  - [HTML拾色](https://www.runoob.com/tags/html-colorpicker.html)
   - [CSS处理](https://www.runoob.com/csspack/)
 - [**常用链接**]()
   
