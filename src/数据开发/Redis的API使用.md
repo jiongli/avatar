@@ -1,4 +1,4 @@
-## **Redis的API操作**
+## **Redis的API使用**
 
 ### String数据类型
 

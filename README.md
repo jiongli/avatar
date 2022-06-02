@@ -26,6 +26,8 @@
 
 [【Hadoop】Hadoop安装部署记录](src/运维部署/Hadoop安装部署记录)
 
+[【Hadoop】DataNode的上线下线操作](src/运维部署/DataNode的上线下线操作)
+
 [【HBase】HBase安装部署记录](src/运维部署/HBase安装部署记录)
 
 [【Hive】Hive安装部署记录](src/运维部署/Hive安装部署记录)
@@ -284,13 +286,15 @@
 
 [HBase的命令行操作](src/数据开发/HBase的命令行操作)
 
-[HBase的API操作](src/数据开发/HBase的API操作)
+[HBase的API使用](src/数据开发/HBase的API使用)
+
+[HBase的RowKey设计原则](src/数据开发/HBase的RowKey设计原则)
+
+[HBase的BulkLoadar](src/数据开发/HBase的BulkLoadar)
 
 [HBase的数据模型](src/数据开发/HBase的数据模型)
 
 [HBase的读写流程](src/数据开发/HBase的读写流程)
-
-[HBase的RowKey设计原则](src/数据开发/HBase的RowKey设计原则)
 
 [HBase的协处理器](src/数据开发/HBase的协处理器)
 
@@ -302,7 +306,7 @@
 
 [Kafka的相关操作](src/数据开发/Kafka的相关操作)
 
-[Kafka的API操作](src/数据开发/Kafka的API操作)
+[Kafka的API使用](src/数据开发/Kafka的API使用)
 
 ## Flume
 
@@ -324,15 +328,25 @@
 
 [基于flume和lftp的非结构化文件同步](src/数据开发/基于flume和lftp的非结构化文件同步)
 
+## Sqoop
+
+[Sqoop安装记录](src/数据开发/Sqoop安装记录)
+
+[Sqoop的相关操作](src/数据开发/Sqoop的相关操作)
+
+[Sqoop对Oracle进行入库/回调](src/数据开发/Sqoop对Oracle进行入库回调)
+
 ## Redis
 
 [Redis命令行操作](src/数据开发/Redis命令行操作)
 
-[Redis的API操作](src/数据开发/Redis的API操作)
+[Redis的API使用](src/数据开发/Redis的API使用)
 
 ## Zookeeper
 
 [Zookeeper的命令行操作](src/数据开发/Zookeeper的命令行操作)
+
+[Zookeeper的API使用](src/数据开发/Zookeeper的API使用)
 
 [Zookeeper的数据模型和监听机制](src/数据开发/Zookeeper的数据模型和监听机制)
 

@@ -1,4 +1,4 @@
-## **HBase的API操作**
+## **HBase的API使用**
 
 ### DDL
 
