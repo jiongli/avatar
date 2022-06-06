@@ -340,7 +340,7 @@
 
 [Flume的自定义组件](src/数据开发/Flume的自定义组件)
 
-[基于flume和lftp的非结构化文件同步](src/数据开发/基于flume和lftp的非结构化文件同步)
+[基于Flume和LFTP的非结构化文件同步](src/数据开发/基于Flume和LFTP的非结构化文件同步)
 
 <!-- panels:end -->
 
@@ -503,6 +503,8 @@
 [Shell的函数](src/后端开发/Shell的函数)
 
 [Shell脚本调试](src/后端开发/Shell脚本调试)
+
+[Hive和Oracle数据比对](src/后端开发/Hive和Oracle数据比对)
 
 <!-- panels:end -->
 

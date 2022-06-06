@@ -2,7 +2,7 @@
 
 ### 问题记录
 
-- centos7中设置的mysql环境变量在重新进入命令行时会失效，环境变量是配置在~/.bash_profile，在.bashrc中添加source ~/.bash_profile仍无法解决
+- 环境变量在重新进入命令行时会失效，环境变量是配置在~/.bash_profile，在.bashrc中添加source ~/.bash_profile仍无法解决
 
 ### 解决过程
 

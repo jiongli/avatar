@@ -20,7 +20,7 @@
 
 > hdfs dfs -cat /test.dat
 
-### 若文件过大, cat不能全部显示, 使用linux管道命令：
+- 若文件过大, cat不能全部显示, 使用linux管道命令：
 
 > hsfs dfs -cat test.dat | less
 
