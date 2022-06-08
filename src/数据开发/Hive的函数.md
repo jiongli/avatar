@@ -46,6 +46,10 @@ date_format('2016-04-25','yyyyMMdd')
 
 ##### current_timestamp
 
+- 获取当前时间
+
+##### unix_timestamp
+
 - 获取当前时间戳
 
 ##### current_date
@@ -59,8 +63,9 @@ date_format('2016-04-25','yyyyMMdd')
 > form_unixtime(bigint unixtime[,string format])
 
 ```sql
-from_unix(unix_timestamp())
-from_unix(unix_timestamp(),'yyyy/MM/dd HH:mm:ss')
+from_unixtime(unix_timestamp())
+from_unixtime(unix_timestamp(),'yyyy/MM/dd HH:mm:ss')
+from_unixtime(unix_timestamp()+28800,'yyyy/MM/dd HH:mm:ss')
 ```
 
 ##### unix_timestamp
@@ -69,8 +74,8 @@ from_unix(unix_timestamp(),'yyyy/MM/dd HH:mm:ss')
 
 ```sql
 unix_timestamp() --不带参数，取当前时间的秒数时间戳
-unix-timestamp('2016-02-11 12:00:00')
-unix-timestamp('2016/02/11 12:00:00','yyyy/MM/dd HH:mm:ss')
+unix_timestamp('2016-02-11 12:00:00')
+unix_timestamp('2016/02/11 12:00:00','yyyy/MM/dd HH:mm:ss')
 ```
 
 ##### to_date
