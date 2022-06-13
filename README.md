@@ -434,6 +434,8 @@
 
 [基于smtplib的邮件发送](src/后端开发/基于smtplib的邮件发送)
 
+[基于ddddocr的图片验证码识别](src/后端开发/基于ddddocr的图片验证码识别)
+
 [Python的Microsoft_Visual_C++_14.0_is_required问题处理](src/后端开发/Python的Microsoft_Visual_C++_14.0_is_required问题处理)
 
 [Python的Can_not_execute_setup.py问题处理](src/后端开发/Python的Can_not_execute_setup.py问题处理)
