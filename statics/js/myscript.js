@@ -20,7 +20,7 @@ window.$docsify = {
     },
     footer: {
         copy: '<hr/><span id="sitetime"></span><br/><span>Copyright &copy; 2014 - 至今</span>',
-        auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Lijiong Blog</a> <span>操千曲而后晓声，观千剑而后识器</span><br/>本站总访问量：<span id="busuanzi_value_site_pv"></span>次 &nbsp&nbsp 本站总访客数：<span id="busuanzi_value_site_uv"></span>人',
+        auth: '<a href="https://www.lijiong.cn" target="_blank">🏷️ Lijiong Blog</a> <span>操千曲而后晓声，观千剑而后识器</span>',
         style: 'text-align:center;',
     },
 }
