@@ -595,4 +595,5 @@
 [全角字母、数字的Unicode](src/其他内容/全角字母、数字的Unicode)
 
 ***
-![](https://ghchart.rshah.org/4b8acd/jiongli ':size=100%')
+![](https://ghchart.rshah.org/4b8acd/jiongli ':id=ghchart :size=100%')
+
