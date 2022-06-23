@@ -428,6 +428,8 @@
 
 [每日疫苗接种数据自动处理流程](src/后端开发/每日疫苗接种数据自动处理流程)
 
+[场所码信息自动下载程序](src/后端开发/场所码信息自动下载程序)
+
 [基于selenium的邮件附件获取](src/后端开发/基于selenium的邮件附件获取)
 
 [解压rar/zip文件并识别路径](src/后端开发/解压rarzip文件并识别路径)
@@ -441,6 +443,10 @@
 [Python的Can_not_execute_setup.py问题处理](src/后端开发/Python的Can_not_execute_setup.py问题处理)
 
 <!-- div:right-panel -->
+
+[pandas的type object 'object' has no attribute 'dtype'问题处理](src/后端开发/pandas的type_object_'object'_has_no_attribute_'dtype'问题处理)
+
+[numpy的numpy.core.multiarray failed to import问题处理](src/后端开发/numpy的numpy.core.multiarray_failed_to_import问题处理)
 
 [Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理](src/后端开发/Python的ModuleNotFoundError_No_module_named_'_ctypes'问题处理)
 
