@@ -20,7 +20,7 @@
 
 [【Docker】Docker的镜像加速设置](src/运维部署/Docker的镜像加速设置)
 
-[【Docker】Docker环境变量在重新进入命令行时的失效问题处理](src/运维部署/Docker环境变量在重新进入命令行时的失效问题处理)
+[【Docker】Docker环境变量失效问题处理](src/运维部署/Docker环境变量失效问题处理)
 
 [【Docsify】Docsify安装记录](src/运维部署/Docsify安装记录)
 
@@ -619,8 +619,6 @@
 [Windows查看保存的wifi密码](src/其他内容/Windows查看保存的wifi密码)
 
 [Xshell外观设置](src/其他内容/Xshell外观设置)
-
-[全角字母、数字的Unicode](src/其他内容/全角字母、数字的Unicode)
 
 ***
 ![](https://ghchart.rshah.org/4b8acd/jiongli ':id=mypic :size=100%')
