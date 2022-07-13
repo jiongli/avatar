@@ -426,6 +426,8 @@
 
 <!-- div:left-panel -->
 
+[时间序列模型Prophet使用](src/后端开发/时间序列模型Prophet使用)
+
 [每日疫苗接种数据自动处理流程](src/后端开发/每日疫苗接种数据自动处理流程)
 
 [场所码信息自动下载程序](src/后端开发/场所码信息自动下载程序)
@@ -440,9 +442,9 @@
 
 [Python的Microsoft_Visual_C++_14.0_is_required问题处理](src/后端开发/Python的Microsoft_Visual_C++_14.0_is_required问题处理)
 
-[Python的Can_not_execute_setup.py问题处理](src/后端开发/Python的Can_not_execute_setup.py问题处理)
-
 <!-- div:right-panel -->
+
+[Python的Can_not_execute_setup.py问题处理](src/后端开发/Python的Can_not_execute_setup.py问题处理)
 
 [pandas的type object 'object' has no attribute 'dtype'问题处理](src/后端开发/pandas的type_object_'object'_has_no_attribute_'dtype'问题处理)
 
